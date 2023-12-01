@@ -1,4 +1,4 @@
-## Developer Portfolio Landing Page Template
+## Eric Gilley
 
 ### Introduction
 

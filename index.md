@@ -4,7 +4,7 @@
 
 ### SQL Projects 
 
-[Mint Classics Company Data Exploration](/sample_page)
+[Mint Classics Company Data Exploration]([/sample_page](https://www.kaggle.com/code/ericgilley/mint-classics-project))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

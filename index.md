@@ -3,7 +3,11 @@
 ---
 
 [Mint Classics Company Data Exploration](https://e-gilley.github.io/Mint-Classics-Analysis/)
-<img src="images/Yellow-Model-Car.jpg?raw=true"/>
+<div class="project-link">
+    <a href="https://e-gilley.github.io//Mint-Classics-Analysis/">
+        <img src="images/Yellow-Model-Car.jpg?raw=true" alt="Project Image">
+    </a>
+</div>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

@@ -2,8 +2,6 @@
 
 ---
 
-### SQL Projects 
-
 [Mint Classics Company Data Exploration](https://www.kaggle.com/code/ericgilley/mint-classics-project)
 <img src="images/Yellow-Model-Car.jpg?raw=true"/>
 

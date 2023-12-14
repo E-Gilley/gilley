@@ -1,4 +1,6 @@
-## <p style="text-align:center;">Projects</p>
+<div style="text-align: center;">
+    Projects
+</div>
 
 ---
 

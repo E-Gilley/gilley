@@ -2,7 +2,7 @@
 
 ---
 
-[Mint Classics Company Data Exploration](https://www.kaggle.com/code/ericgilley/mint-classics-project)
+[Mint Classics Company Data Exploration](https://e-gilley.github.io/Mint-Classics-Analysis/)
 <img src="images/Yellow-Model-Car.jpg?raw=true"/>
 
 ---

@@ -5,7 +5,7 @@
 ### SQL Projects 
 
 [Mint Classics Company Data Exploration](https://www.kaggle.com/code/ericgilley/mint-classics-project)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Yellow-Model-Car.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

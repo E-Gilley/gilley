@@ -1,6 +1,5 @@
-<div style="text-align: center;">
-    Projects
-</div>
+<h2 style="text-align:center;">Projects</h2>
+
 
 ---
 

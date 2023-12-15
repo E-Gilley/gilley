@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">Projects</h1>
+# Projects
 
 
 ---

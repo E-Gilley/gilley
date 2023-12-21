@@ -8,7 +8,7 @@ Explored data from the Mint Classic Company to better understand the company's c
 Skills Used:
 - SQL
 - Google Sheets
-- Communication
+- Typing words in a way that makes sense (Communication)
 
 <div class="project-link">
     <a href="https://e-gilley.github.io//Mint-Classics-Analysis/" target="_blank">
@@ -20,7 +20,7 @@ Skills Used:
 
 ---
 
-### COMING SOON: What Are the Biggest Winners and Losers in the S&P 500 This Year?
+### COMING SOON: Exploring the Biggest Winners and Losers in the S&P 500 This Year
 
 Utilizes real data pulled from AlphaVantage's API stored in a cloud-based database to analyze which companies have over and under-performed relative to their size within Vanguard's S&P 500 ETF (VOO) in 2023.
 

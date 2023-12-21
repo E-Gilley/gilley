@@ -2,7 +2,7 @@
 
 
 ---
-## [Mint Classics Company Data Exploration](https://e-gilley.github.io/Mint-Classics-Analysis/)
+### <a href="https://e-gilley.github.io/Mint-Classics-Analysis/" target="_blank">Mint Classics Data Analysis</a>
 
 Explored data from the Mint Classic Company to better understand the company's current infrastructure, products, and financial metrics. Provided data-based recommendations to improve profit margins and more efficiently manage warehouse inventory.
 

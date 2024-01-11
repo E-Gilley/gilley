@@ -24,6 +24,9 @@ Created a Tableau dashboard using data from RedFun to monitor key real estate me
 
 [Click here to view the project's notebook](https://colab.research.google.com/drive/1WIjgo4YAxOl8I2xMRPjRzGbe9V9lz_tU?usp=sharing)
 
+[Click here to view the project's notebook](https://colab.research.google.com/drive/1WIjgo4YAxOl8I2xMRPjRzGbe9V9lz_tU?usp=sharing){:target="_blank"}
+
+
 [Click here to view the dashboard](https://public.tableau.com/views/OceanCountyRealEstateMarketOverview/OceanCountyDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Skills Used:

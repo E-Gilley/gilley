@@ -12,7 +12,7 @@ Skills Used:
 
 <div class="project-link">
     <a href="https://e-gilley.github.io//Mint-Classics-Analysis/" target="_blank">
-        <img src="images/fahad-bin-kamal-anik-QLaa3aYpwv8-unsplash.jpg?raw=true" alt="Project Image">
+        <img src="images/fahad-bin-kamal-anik-QLaa3aYpwv8-unsplash.jpg?raw=true" alt="Project Image" width="400">
     </a>
 </div>
 

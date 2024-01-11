@@ -34,7 +34,9 @@ Skills Used:
 
 ---
 
-### COMING SOON: Exploring the Biggest Winners and Losers in the S&P 500 This Year
+### COMING SOON: Exploring the Biggest Winners and Losers in the S&P 500 for 2023
+
+<img src="images/work-in-progress.jpg?raw=true" alt="A sign indicating work is being done" width="400">
 
 Utilizes real data pulled from AlphaVantage's API stored in a cloud-based database to analyze which companies have over and under-performed relative to their size within Vanguard's S&P 500 ETF (VOO) in 2023.
 
@@ -44,7 +46,5 @@ Skills Used:
 - Database Engineering
 - AWS
 - Patience
-
-<img src="images/work-in-progress.jpg?raw=true" alt="A sign indicating work is being done" width="400">
 
 ---

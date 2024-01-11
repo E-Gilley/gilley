@@ -45,9 +45,6 @@ Skills Used:
 - AWS
 - Patience
 
-![work-in-progress](https://github.com/E-Gilley/gilley/assets/150806239/d6f55c35-140b-4a4f-b1ff-802d97bc88a1)
-
+<img src="images/work-in-progress.jpg?raw=true" alt="A sign indicating work is being done" width="400">
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->

@@ -16,6 +16,20 @@ Skills Used:
     </a>
 </div>
 
+---
+
+### <a href="https://public.tableau.com/views/OceanCountyRealEstateMarketOverview/OceanCountyDashboard?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank">Ocean County Real Estate Market Analysis</a>
+
+Created a Tableau dashboard to monitor key real estate metrics in New Jersey's Ocean County.
+
+Skills Used:
+- Python
+- Tableau
+- Google Sheets
+
+<a href="https://public.tableau.com/views/OceanCountyRealEstateMarketOverview/OceanCountyDashboard?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank">
+  <img src="images/Dashboard.png?raw=true" alt="A dashboard showing real estate information for Ocean County, New Jersey" width="400">
+</a>
 
 
 ---

@@ -18,6 +18,18 @@ Skills Used:
 
 ---
 
+### <a href="https://public.tableau.com/views/OceanCountyRealEstateMarketOverview/OceanCountyDashboard?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank">Exploring Real Estate Opportunity in Atlantic City, NJ</a>
+
+Interactive Tableau dashboard that highlights three Atlantic City neighborhoods primed for real estate investment.
+
+Skills Used:
+- Python
+- Tableau
+- Google Sheets
+- Data Cleaning
+
+---
+
 ### <a href="https://public.tableau.com/views/OceanCountyRealEstateMarketOverview/OceanCountyDashboard?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank">Ocean County Real Estate Market Analysis</a>
 
 Created a Tableau dashboard using data from RedFun to monitor key real estate metrics in New Jersey's Ocean County.
@@ -35,21 +47,5 @@ Skills Used:
 <a href="https://public.tableau.com/views/OceanCountyRealEstateMarketOverview/OceanCountyDashboard?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank">
   <img src="images/Dashboard.png?raw=true" alt="A dashboard showing real estate information for Ocean County, New Jersey" width="400">
 </a>
-
-
----
-
-### COMING SOON: Exploring the Biggest Winners and Losers in the S&P 500 for 2023
-
-<img src="images/work-in-progress.jpg?raw=true" alt="A sign indicating work is being done" width="400">
-
-Utilizes real data pulled from AlphaVantage's API stored in a cloud-based database to analyze which companies have over and under-performed relative to their size within Vanguard's S&P 500 ETF (VOO) in 2023.
-
-Skills Used:
-- Python
-- SQL
-- Database Engineering
-- AWS
-- Patience
 
 ---

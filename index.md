@@ -18,7 +18,7 @@ Skills Used:
 
 ---
 
-### <a href="https://public.tableau.com/shared/SP6QB6GS9?:display_count=n&:origin=viz_share_link">Exploring Real Estate Opportunity in Atlantic City, NJ</a>
+### <a href="https://public.tableau.com/shared/SP6QB6GS9?:display_count=n&:origin=viz_share_link" target="_blank">Exploring Real Estate Opportunity in Atlantic City, NJ</a>
 
 Interactive Tableau dashboard that highlights three Atlantic City neighborhoods primed for real estate investment.
 

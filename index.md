@@ -28,6 +28,10 @@ Skills Used:
 - Google Sheets
 - Data Cleaning
 
+<a href="https://public.tableau.com/views/OceanCountyRealEstateMarketOverview/OceanCountyDashboard?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank">
+  <img src="images/Atlantic-City.jpg?raw=true" alt="People walking on the board walk in Atlantic City, New Jersey" width="400">
+</a>
+
 ---
 
 ### <a href="https://public.tableau.com/views/OceanCountyRealEstateMarketOverview/OceanCountyDashboard?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank">Ocean County Real Estate Market Analysis</a>

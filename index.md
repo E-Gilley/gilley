@@ -18,7 +18,7 @@ Skills Used:
 
 ---
 
-### <a href="https://public.tableau.com/shared/HB6TSKTN9?:display_count=n&:origin=viz_share_link" target="_blank">Exploring Real Estate Opportunity in Atlantic City, NJ</a>
+### <a href="https://public.tableau.com/shared/SP6QB6GS9?:display_count=n&:origin=viz_share_link">Exploring Real Estate Opportunity in Atlantic City, NJ</a>
 
 Interactive Tableau dashboard that highlights three Atlantic City neighborhoods primed for real estate investment.
 
@@ -29,7 +29,7 @@ Skills Used:
 - Data Cleaning
 - ETL
 
-<a href="https://public.tableau.com/shared/HB6TSKTN9?:display_count=n&:origin=viz_share_link" target="_blank">
+<a href="https://public.tableau.com/shared/SP6QB6GS9?:display_count=n&:origin=viz_share_link" target="_blank">
   <img src="images/Atlantic-City.jpg?raw=true" alt="People walking on the board walk in Atlantic City, New Jersey" width="400">
 </a>
 
